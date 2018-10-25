@@ -17,3 +17,5 @@ print (new_list)
 full_name = lambda fn, ln: fn.strip().title() + " " + ln.strip().title()
 full_name("sasd", "shandj")
 print(str(full_name))
+
+
