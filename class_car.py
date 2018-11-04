@@ -4,6 +4,7 @@ class Customer(object):
     Arributes
     name - string
     balnace - float
+    
     """
 
     def __init__(self, name, balance = 0.0):
