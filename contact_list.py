@@ -35,9 +35,7 @@ def main():
         print("Contact Info")
         for j in range(len(contacts[i])):
             print(contacts[i][j])
-
-
-                  
+                 
 
 # calling the main method
 #actual print things or execution starts here 
